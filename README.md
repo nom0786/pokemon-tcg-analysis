@@ -1,1 +1,1 @@
-# pokemon-tcg-analysis
+# pokemon-tcg-guide
